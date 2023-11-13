@@ -1,5 +1,18 @@
 # Change Log
 
+## 2.2.2
+
+### Patch Changes
+
+- [#8114](https://github.com/chakra-ui/chakra-ui/pull/8114)
+  [`83a850eb5`](https://github.com/chakra-ui/chakra-ui/commit/83a850eb598fb2df97949a1aa4f2d12cb4bc63c5)
+  Thanks [@tarao1006](https://github.com/tarao1006)! - Change props order not to
+  overwrite className
+
+- Updated dependencies []:
+  - @chakra-ui/clickable@2.1.0
+  - @chakra-ui/descendant@3.1.0
+
 ## 2.2.1
 
 ### Patch Changes

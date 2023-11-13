@@ -1,5 +1,14 @@
 # Change Log
 
+## 3.3.2
+
+### Patch Changes
+
+- [#8121](https://github.com/chakra-ui/chakra-ui/pull/8121)
+  [`170198fc3`](https://github.com/chakra-ui/chakra-ui/commit/170198fc3936ad34f8136a2da173c12d9dc3dc36)
+  Thanks [@kkieninger](https://github.com/kkieninger)! - Fix hard-coded z-index
+  for Menu in favor of one defined from the theme
+
 ## 3.3.1
 
 ### Patch Changes
